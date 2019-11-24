@@ -1,0 +1,5 @@
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+tringa/node-app     latest              c09f2046aaeb        7 minutes ago       908MB
+node                10                  d5680e53a228        28 hours ago        903MB
+nginx               latest              231d40e811cd        41 hours ago        126MB
+hello-world         latest              fce289e99eb9        10 months ago       1.84kB
